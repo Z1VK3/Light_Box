@@ -10,3 +10,7 @@ Used parts:
 * 2 toggle switch
 * WS2811 led strip
 * 5V 4A power adapter
+
+
+Requires FastLED library:
+https://github.com/FastLED/FastLED
